@@ -21,7 +21,7 @@ The dataset contains numeric measurements computed from digitized images of brea
 ## 3. GitHub Repository
 
 Add your GitHub repository URL here:
-[PASTE YOUR GITHUB REPOSITORY URL]
+https://github.com/ravitejagade/BITS-AIML-ML-Classification
 
 ## 4. Model Comparison
 
